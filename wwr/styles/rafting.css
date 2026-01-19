@@ -2,7 +2,7 @@
     --primary-color: #242424;
     --secondary-color: #f4a261;
     --accent1-color: #264653;
-    --accent2-color: #e9c46a;
+    --accent2-color: #f1f1f1;
     --heading-font: "Times New Roman", "Georgia", serif;
     --body-font: Arial, Helvetica, sans-serif;
 }
@@ -32,7 +32,7 @@ footer {
 }
 
 nav a {
-    color: white;
+    color: var(--accent2-color);
     text-decoration: none;
     margin-left: 20px;
     font-weight: bold;
