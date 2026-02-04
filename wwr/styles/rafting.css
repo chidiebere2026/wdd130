@@ -30,7 +30,7 @@ header {
 }
 
 header img {
-    width: 120;
+    width: 120px;
     height: auto;
     margin-left: 20px;
 }
@@ -193,7 +193,7 @@ footer {
     display: grid;
     grid-template-columns: 1fr auto;
     align-items: center;
-    background-color: #2a2a2a;
+    background-color: #00002e;
     padding: 15px 20px;
 }
 
